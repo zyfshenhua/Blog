@@ -4,7 +4,7 @@ date: 2016-09-05 16:12:53
 tags:
     - AngularJS
     - MVC
-categories: 'Javascript'
+categories: Javascript
 ---
 
 ## 介绍

@@ -74,7 +74,7 @@ deploy:
   - type: rsync
     host: 123.57.227.172
     user: root
-    root: /var/www/html
+    root: /var/www/botue
     port: 22
     delete: true
     verbose: true
